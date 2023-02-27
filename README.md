@@ -1,2 +1,2 @@
-# primer-protecto
+# primer-proyecto
 Mí cv
